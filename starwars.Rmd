@@ -24,4 +24,4 @@ ggplot(data = starwars,
 ### Stretch goal: Add labels for title, x and y axes, and size of points.
 
 ## References {#references}
-1. Assignment Adapted from Mine Çetinkaya-Rundel's Data Science in a Box
+1. Assignment Adapted from [Mine Cetinkaya-Rundel's Data Science in a Box](https://github.com/rstudio-education/datascience-box)
